@@ -2,7 +2,7 @@
 
 > I'm Yujin, a college student who dreams of sustainable development.
 >
-### 👀 I’m interested in Data Analysis
+### 👀 I’m interested in Data science for business
 
 ### 🌱 I’m currently learning **Machine Learning Models and Financial Data Analyzing**
 
