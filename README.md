@@ -10,8 +10,8 @@
 
 ### 📫 Contact Me : 
     - Primary : yujin9518@gmail.com
-    - Secondary : yunjin9518@naver.com
-
+    - Secondary : yujin9518@knu.ac.kr
+    
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=youjin00&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
