@@ -8,7 +8,7 @@
 
 ### 💞️ I’m looking to collaborate on 'Using models and creating models that evaluate and predict the value of stocks, bonds, etc. through machine learning'
 
-### 📫 Contact Me : 
+### 📫 Contact Me 
     - Primary : yujin9518@gmail.com
     - Secondary : yujin9518@knu.ac.kr
     
