@@ -4,7 +4,7 @@
 >
 ### 👀 I’m interested in Data science for business
 
-### 🌱 I’m currently learning **Machine Learning Models and Financial Data Analyzing**
+### 🌱 I’m currently learning **Deep Learning & Pytorch**
 
 ### 💞️ I’m looking to collaborate on 'Using models and creating models that evaluate and predict the value of stocks, bonds, etc. through machine learning'
 
