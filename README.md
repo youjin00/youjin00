@@ -1,17 +1,26 @@
-# 👋 Hi, I’m yujin!
+# Hi there, I'm Yujin! 👋
 
-> I'm Yujin, a college student who dreams of sustainable development.
->
+I'm a college student who dreams of sustainable development.
+
 ### 👀 I’m interested in Data science for business
+- Exploring the intersection of data science and business for impactful solutions.
 
 ### 🌱 I’m currently learning **Deep Learning & Pytorch**
+- Continuously expanding my knowledge and skills in machine learning.
 
-### 💞️ I’m looking to collaborate on 'Using models and creating models that evaluate and predict the value of stocks, bonds, etc. through machine learning'
+## 🛠️ My Tech Stack
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Frameworks**: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+- **Tools**: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📫 Contact Me 
-    - Primary : yujin9518@gmail.com
-    - Secondary : yujin9518@knu.ac.kr
-    
+## 📫 How to reach me
+- **Email**: [yujin9518@gmail.com](mailto:yujin9518@gmail.com)
+- **Instagram**: [@zzin.you](https://www.instagram.com/zzin.you/)
+
+---
+
+![Profile Views](https://yyj.oopy.io/)
+
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=youjin00&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
