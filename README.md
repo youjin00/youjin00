@@ -9,7 +9,9 @@ I'm a college student who dreams of sustainable development.
 - Continuously expanding my knowledge and skills in machine learning.
 
 ## 🛠️ My Tech Stack
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white),
+- ![MYSQL](https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 
 - **Frameworks**: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white), ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 - **Tools**: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
